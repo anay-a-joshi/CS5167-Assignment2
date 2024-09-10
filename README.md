@@ -26,3 +26,6 @@ let fn = (a,b) => { a>b ? console.log(a) : console.log(b) }
 #### 3. Write an example to demonstrate the use of the map function on an array.  
 
 
+## Svelte Component
+#### Create Svelte Component(s)
+
