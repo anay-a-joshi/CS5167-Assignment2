@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=anay-a-joshi&color=green)  
+
 # CS5167-Assignment2
 ## Advanced JavaScript Coding Activity
 
